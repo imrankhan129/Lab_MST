@@ -1,0 +1,19 @@
+.todo {
+  max-width: 28rem;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 2.5rem;
+  background-color: rgb(250, 234, 234);
+  border-radius: 0.5rem;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  padding: 1.5rem;        /* p-6 */
+}
+body{
+    background-color: rgb(255, 127, 127);
+}
+.todo h1 {
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+  text-align: center;
+}
